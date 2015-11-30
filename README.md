@@ -1,2 +1,3 @@
-# scraper-carrot
-Scrapper for Scrapyd
+# Spider for Scrapy
+
+This is spider that aimed to crawl carrots.  
